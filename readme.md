@@ -1,4 +1,4 @@
-# Credit Scoring Model (CIBIL Score Prediction)
+# Credit Scoring Model (CIBIL Score Prediction )
 
 This project is a **statistical credit scoring model** that predicts a customer's likelihood of defaulting on a loan and generates a **CIBIL-like score (300-900)**. The model uses **Logistic Regression** with features such as **credit utilization, on-time payments, and past defaults** to assess creditworthiness.
 
