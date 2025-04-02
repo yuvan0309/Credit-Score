@@ -12,7 +12,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, roc_auc_score, confusion_matrix,roc_curve
 from imblearn.over_sampling import SMOTE
 
-# syntectic data genrator
+# syntectic data genrato
 fake = Faker()
 num_records = 2000
 
